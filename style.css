@@ -4,9 +4,6 @@ body {
 .hidden {
   display: none !important;
 }
-.MuiGrid-spacing-xs-16-58 {
-  width: 100% !important;
-}
 .App .header {
   height: auto !important;
   width: 100% !important;
@@ -40,13 +37,14 @@ body {
 }
 .contentGrid {
   margin-top: 75px;
+  overflow: hidden;
 }
 .noResults {
   padding: 20px;
   font-family: "Roboto", "Helvetica", "Arial", sans-serif;
 }
-div[class^="MuiListSubheader"] {
-  font-size: 20px;
+.headerText {
+  font-size: 20px !important;
 }
 .Item {
   padding: 10px;
@@ -74,7 +72,4 @@ body {
 }
 .hidden {
   display: none !important;
-}
-.MuiGrid-spacing-xs-16-58 {
-  width: 100% !important;
 }
