@@ -1,0 +1,6 @@
+{
+    "data":{
+        "France":"assets/data/France.json"
+    },
+    "defaultSource":"France"
+}

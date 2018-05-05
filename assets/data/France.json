@@ -1,0 +1,1493 @@
+{
+    "mushrooms": [
+        {
+            "url": "https://fr.wikipedia.org/wiki/Morchella",
+            "image_url": "morel.jpg",
+            "availability": [
+                3,
+                4,
+                5,
+                6
+            ],
+            "type": "mushroom",
+            "origin": "France",
+            "name": "morel"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Cèpe",
+            "image_url": "cep.jpg",
+            "availability": [
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11
+            ],
+            "type": "mushroom",
+            "origin": "France",
+            "name": "cep"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Truffe_(champignon)",
+            "image_url": "truffle.jpg",
+            "availability": [
+                1,
+                2,
+                3,
+                9,
+                10,
+                11,
+                12
+            ],
+            "type": "mushroom",
+            "origin": "France",
+            "name": "truffle"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Agaricus_bisporus",
+            "image_url": "paris_mushroom.jpg",
+            "availability": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                9,
+                10,
+                11,
+                12
+            ],
+            "type": "mushroom",
+            "origin": "France",
+            "name": "paris_mushroom"
+        }
+    ],
+    "cereals": [
+        {
+            "url": "https://fr.wikipedia.org/wiki/Colza",
+            "image_url": "rape.jpg",
+            "availability": [
+                6,
+                7
+            ],
+            "type": "cereal",
+            "origin": "France",
+            "name": "rape"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Pois_cultivé",
+            "image_url": "peas.jpg",
+            "availability": [
+                6,
+                7,
+                8
+            ],
+            "type": "cereal",
+            "origin": "France",
+            "name": "peas"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Avoine_cultivée",
+            "image_url": "oat.jpg",
+            "availability": [
+                6,
+                7,
+                8,
+                12
+            ],
+            "type": "cereal",
+            "origin": "France",
+            "name": "oat"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Hordeum",
+            "image_url": "barley.jpg",
+            "availability": [
+                6,
+                7,
+                8,
+                12
+            ],
+            "type": "cereal",
+            "origin": "France",
+            "name": "barley"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Seigle",
+            "image_url": "rye.jpg",
+            "availability": [
+                6,
+                7,
+                8,
+                12
+            ],
+            "type": "cereal",
+            "origin": "France",
+            "name": "rye"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Blé_dur",
+            "image_url": "wheat.jpg",
+            "availability": [
+                7,
+                8,
+                12
+            ],
+            "type": "cereal",
+            "origin": "France",
+            "name": "wheat_hard"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Blé_tendre",
+            "image_url": "wheat.jpg",
+            "availability": [
+                7,
+                8,
+                12
+            ],
+            "type": "cereal",
+            "origin": "France",
+            "name": "wheat_soft"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Triticale",
+            "image_url": "triticale.jpg",
+            "availability": [
+                7,
+                8
+            ],
+            "type": "cereal",
+            "origin": "France",
+            "name": "triticale"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Tournesol",
+            "image_url": "sunflower.jpg",
+            "availability": [
+                9
+            ],
+            "type": "cereal",
+            "origin": "France",
+            "name": "sunflower"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Riz",
+            "image_url": "rice.jpg",
+            "availability": [
+                10
+            ],
+            "type": "cereal",
+            "origin": "France",
+            "name": "rice"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Soja",
+            "image_url": "soy.jpg",
+            "availability": [
+                10
+            ],
+            "type": "cereal",
+            "origin": "France",
+            "name": "soy"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Sorgo_commun",
+            "image_url": "sorghum.jpg",
+            "availability": [
+                10,
+                11
+            ],
+            "type": "cereal",
+            "origin": "France",
+            "name": "sorghum"
+        }
+    ],
+    "vegetables": [
+        {
+            "url": "https://fr.wikipedia.org/wiki/Tomate",
+            "image_url": "tomato.jpg",
+            "availability": [
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "tomato"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Pomme_de_terre",
+            "image_url": "potatoe.jpg",
+            "availability": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "potatoe"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Valerianella_locusta",
+            "image_url": "corn_salad.jpg",
+            "availability": [
+                1,
+                2,
+                11,
+                12
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "corn_salad"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Ail_cultivé",
+            "image_url": "garlic.jpg",
+            "availability": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "garlic"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Carotte",
+            "image_url": "carrots.jpg",
+            "availability": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "carrots"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Chou_de_Bruxelles",
+            "image_url": "brussels-sprout.jpg",
+            "availability": [
+                1,
+                2,
+                3,
+                9,
+                10,
+                11,
+                12
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "brussels-sprout"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Crosne_du_Japon",
+            "image_url": "chinese_artichoke.jpg",
+            "availability": [
+                1,
+                2,
+                3,
+                11,
+                12
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "chinese_artichoke"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Endive",
+            "image_url": "endive.jpg",
+            "availability": [
+                1,
+                2,
+                3,
+                4,
+                10,
+                11,
+                12
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "endive"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Oignon",
+            "image_url": "onion.jpg",
+            "availability": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "onion"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Poireau",
+            "image_url": "leek.jpg",
+            "availability": [
+                1,
+                2,
+                3,
+                4,
+                9,
+                10,
+                11,
+                12
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "leek"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Salsifis",
+            "image_url": "salsify.jpg",
+            "availability": [
+                1,
+                2,
+                3,
+                10,
+                11,
+                12
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "salsify"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Épinard",
+            "image_url": "spinach.jpg",
+            "availability": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "spinach"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Betterave",
+            "image_url": "beet.jpg",
+            "availability": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "beet"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Chou_(plante)",
+            "image_url": "cabbage.jpg",
+            "availability": [
+                1,
+                3,
+                9,
+                10,
+                11,
+                12
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "cabbage"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Courge",
+            "image_url": "squash.jpg",
+            "availability": [
+                1,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "squash"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Céleri",
+            "image_url": "celery.jpg",
+            "availability": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "celery"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Chicorée_frisée",
+            "image_url": "chicory.jpg",
+            "availability": [
+                1,
+                2,
+                3,
+                4,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "chicory"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Navet",
+            "image_url": "turnip.jpg",
+            "availability": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                10,
+                11,
+                12
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "turnip"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Panais",
+            "image_url": "parsnip.jpg",
+            "availability": [
+                1,
+                2,
+                3,
+                9,
+                10,
+                11,
+                12
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "parsnip"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Topinambour",
+            "image_url": "jerusalem_artichoke.jpg",
+            "availability": [
+                1,
+                2,
+                3,
+                10,
+                11,
+                12
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "jerusalem_artichoke"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Radis",
+            "image_url": "radish.jpg",
+            "availability": [
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "radish"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Asperge",
+            "image_url": "asparagus.jpg",
+            "availability": [
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "asparagus"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Bette_(plante)",
+            "image_url": "swiss_chard.jpg",
+            "availability": [
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "swiss_chard"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Chou-fleur",
+            "image_url": "cauliflower.jpg",
+            "availability": [
+                3,
+                4,
+                5,
+                9,
+                10,
+                11
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "cauliflower"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Petit_pois",
+            "image_url": "pea.jpg",
+            "availability": [
+                4,
+                5,
+                6,
+                7
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "pea"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Artichaut",
+            "image_url": "artichoke.jpg",
+            "availability": [
+                4,
+                5,
+                6,
+                7,
+                8,
+                9
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "artichoke"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Concombre",
+            "image_url": "cucumber.jpg",
+            "availability": [
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "cucumber"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Laitue",
+            "image_url": "lettuce.jpg",
+            "availability": [
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "lettuce"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Pomme_de_terre_de_primeur",
+            "image_url": "new_potatoe.jpg",
+            "availability": [
+                5,
+                6,
+                7,
+                8
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "new_potatoe"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Courgette",
+            "image_url": "zuchini.jpg",
+            "availability": [
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "zuchini"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Aubergine",
+            "image_url": "eggplant.jpg",
+            "availability": [
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "eggplant"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Fenouil",
+            "image_url": "fennel.jpg",
+            "availability": [
+                6,
+                7,
+                8,
+                9,
+                10,
+                11
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "fennel"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Poivron",
+            "image_url": "pepper.jpg",
+            "availability": [
+                6,
+                7,
+                8,
+                9
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "pepper"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Brocoli",
+            "image_url": "broccoli.jpg",
+            "availability": [
+                6,
+                7,
+                8,
+                9,
+                10,
+                11
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "broccoli"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Haricot_vert",
+            "image_url": "green_bean.jpg",
+            "availability": [
+                6,
+                7,
+                8,
+                9,
+                10
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "green_bean"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Potiron",
+            "image_url": "pumpkin.jpg",
+            "availability": [
+                9,
+                10,
+                11,
+                12
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "pumpkin"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Maïs",
+            "image_url": "corn.jpg",
+            "availability": [
+                7,
+                8,
+                9,
+                10,
+                11
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "corn"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Rutabaga",
+            "image_url": "rutabaga.jpg",
+            "availability": [
+                10,
+                11,
+                12
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "rutabaga"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Cynara_cardunculus",
+            "image_url": "cardoon.jpg",
+            "availability": [
+                11
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "cardoon"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Plante_aromatique",
+            "image_url": "aromatic_herbs.jpg",
+            "availability": [
+                1,
+                2,
+                3,
+                11,
+                12
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "aromatic_herbs"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Cresson_(plante)",
+            "image_url": "cress.jpg",
+            "availability": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "cress"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Oseille",
+            "image_url": "sorrel.jpg",
+            "availability": [
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "sorrel"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Échalote",
+            "image_url": "shallot.jpg",
+            "availability": [
+                10,
+                11,
+                12
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "shallot"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Piment",
+            "image_url": "chili-pepper.jpg",
+            "availability": [
+                6,
+                7,
+                8,
+                9
+            ],
+            "type": "vegetable",
+            "origin": "France",
+            "name": "chili-pepper"
+        }
+    ],
+    "fruits": [
+        {
+            "url": "https://fr.wikipedia.org/wiki/Fraise",
+            "image_url": "strawberry.jpg",
+            "availability": [
+                5,
+                6,
+                7,
+                8
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "strawberry"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Citron",
+            "image_url": "lemon.jpg",
+            "availability": [
+                1,
+                2,
+                3,
+                4,
+                6,
+                10,
+                11,
+                12
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "lemon"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Kiwi",
+            "image_url": "kiwi.jpg",
+            "availability": [
+                1,
+                2,
+                3,
+                11,
+                12
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "kiwi"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Orange_(fruit)",
+            "image_url": "orange.jpg",
+            "availability": [
+                1,
+                2,
+                3,
+                11,
+                12
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "orange"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Poire",
+            "image_url": "pear.jpg",
+            "availability": [
+                1,
+                2,
+                3,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "pear"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Clémentine",
+            "image_url": "clementine.jpg",
+            "availability": [
+                1,
+                2,
+                11,
+                12
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "clementine"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Mandarine",
+            "image_url": "mandarin.jpg",
+            "availability": [
+                1,
+                2,
+                11,
+                12
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "mandarin"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Pamplemousse_et_pomélo",
+            "image_url": "grapefruit.jpg",
+            "availability": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "grapefruit"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Pomme",
+            "image_url": "apple.jpg",
+            "availability": [
+                1,
+                2,
+                3,
+                4,
+                6,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "apple"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Cerise",
+            "image_url": "cherry.jpg",
+            "availability": [
+                5,
+                6,
+                7
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "cherry"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Rhubarbe",
+            "image_url": "rhubarb.jpg",
+            "availability": [
+                5,
+                6,
+                7
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "rhubarb"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Abricot",
+            "image_url": "apricot.jpg",
+            "availability": [
+                6,
+                7,
+                8
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "apricot"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Groseille",
+            "image_url": "currant.jpg",
+            "availability": [
+                6,
+                7,
+                8
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "currant"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Pêche_(fruit)",
+            "image_url": "peach.jpg",
+            "availability": [
+                6,
+                7,
+                8
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "peach"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Cassis_(fruit)",
+            "image_url": "cassis.jpg",
+            "availability": [
+                6,
+                7,
+                8
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "cassis"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Framboise",
+            "image_url": "raspberry.jpg",
+            "availability": [
+                6,
+                7,
+                8,
+                10
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "raspberry"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Melon_(plante)",
+            "image_url": "melon.jpg",
+            "availability": [
+                6,
+                7,
+                8,
+                9
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "melon"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Pastèque",
+            "image_url": "water-melon.jpg",
+            "availability": [
+                6,
+                7,
+                8,
+                9
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "water-melon"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Prune",
+            "image_url": "plum.jpg",
+            "availability": [
+                6,
+                7,
+                8,
+                9
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "plum"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Fève",
+            "image_url": "bean.jpg",
+            "availability": [
+                6,
+                7,
+                12
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "bean"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Nectarine",
+            "image_url": "nectarine.jpg",
+            "availability": [
+                7,
+                8
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "nectarine"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Myrtille",
+            "image_url": "blueberry.jpg",
+            "availability": [
+                7,
+                8,
+                9,
+                10
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "blueberry"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Figue",
+            "image_url": "fig.jpg",
+            "availability": [
+                7,
+                8,
+                9,
+                10
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "fig"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Mirabelle",
+            "image_url": "mirabelle.jpg",
+            "availability": [
+                9,
+                10
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "mirabelle"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Mûre_(fruit_du_mûrier)",
+            "image_url": "blackberry.jpg",
+            "availability": [
+                9,
+                10
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "blackberry"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Noisette",
+            "image_url": "hazelnut.jpg",
+            "availability": [
+                8,
+                9,
+                10
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "hazelnut"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Pruneau",
+            "image_url": "prune.jpg",
+            "availability": [
+                9,
+                10
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "prune"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Raisin",
+            "image_url": "grapes.jpg",
+            "availability": [
+                8,
+                9,
+                10
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "grapes"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Coing",
+            "image_url": "quince.jpg",
+            "availability": [
+                9,
+                10,
+                11
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "quince"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Noix",
+            "image_url": "nuts.jpg",
+            "availability": [
+                9,
+                10
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "nuts"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Châtaigne",
+            "image_url": "chestnut.jpg",
+            "availability": [
+                10,
+                11,
+                12
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "chestnut"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Grenadille",
+            "image_url": "passion-fruit.jpg",
+            "availability": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "type": "fruit",
+            "origin": "foreign",
+            "name": "passion-fruit"
+        },
+        {
+            "url": "https://en.wikipedia.org/wiki/Carambola",
+            "image_url": "carom.jpg",
+            "availability": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "type": "fruit",
+            "origin": "foreign",
+            "name": "carom"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Grenade_(fruit)",
+            "image_url": "pomegranate.jpg",
+            "availability": [
+                1,
+                2,
+                3,
+                10,
+                11,
+                12
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "pomegranate"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Papaye",
+            "image_url": "papaya.jpg",
+            "availability": [
+                10,
+                11,
+                12
+            ],
+            "type": "fruit",
+            "origin": "foreign",
+            "name": "papaya"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Mangue",
+            "image_url": "mango.jpg",
+            "availability": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "type": "fruit",
+            "origin": "foreign",
+            "name": "mango"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Datte",
+            "image_url": "dates.jpg",
+            "availability": [
+                10,
+                11,
+                12
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "dates"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Kaki",
+            "image_url": "khaki.jpg",
+            "availability": [
+                1,
+                10,
+                11,
+                12
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "khaki"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Amande",
+            "image_url": "almond.jpg",
+            "availability": [
+                9,
+                10
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "almond"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Ananas",
+            "image_url": "pineapple.jpg",
+            "availability": [
+                1,
+                2,
+                3,
+                9,
+                10,
+                11,
+                12
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "pineapple"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Banane",
+            "image_url": "banana.jpg",
+            "availability": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "banana"
+        },
+        {
+            "url": "https://fr.wikipedia.org/wiki/Physalis",
+            "image_url": "physalis.jpg",
+            "availability": [
+                1,
+                2,
+                11,
+                12
+            ],
+            "type": "fruit",
+            "origin": "France",
+            "name": "physalis"
+        }
+    ],
+    "source": "France"
+}

@@ -1,0 +1,80 @@
+body {
+  margin: 2px;
+}
+.hidden {
+  display: none !important;
+}
+.MuiGrid-spacing-xs-16-58 {
+  width: 100% !important;
+}
+.App .header {
+  height: auto !important;
+  width: 100% !important;
+  padding-top: 20px !important;
+}
+.topBar {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.drawerButtonContainer {
+  text-align: right;
+}
+.root {
+  flexGrow: 1;
+}
+.sourceSelect {
+  margin-left: 10px !important;
+}
+.searchInput {
+  margin-left: 10px !important;
+  margin-top: -15px !important;
+  margin-right: 10px !important;
+  margin-bottom: 0 !important;
+}
+.infoDrawer {
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  width: 300px;
+}
+.infoDrawer .infoArea {
+  margin: 5px;
+}
+.contentGrid {
+  margin-top: 75px;
+}
+.noResults {
+  padding: 20px;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+div[class^="MuiListSubheader"] {
+  font-size: 20px;
+}
+.Item {
+  padding: 10px;
+}
+.Item .card {
+  min-width: 200px;
+}
+.Item .media {
+  height: 200px;
+}
+.Item .content {
+  height: 80px;
+}
+.Item .monthTag {
+  line-height: 12px;
+  display: inline-block;
+  font-size: 12px;
+  margin: 3px;
+  padding: 4px;
+  background: lightgray;
+  border-radius: 3px;
+}
+body {
+  margin: 2px;
+}
+.hidden {
+  display: none !important;
+}
+.MuiGrid-spacing-xs-16-58 {
+  width: 100% !important;
+}
